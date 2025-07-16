@@ -1,5 +1,5 @@
 # Code-Project
-Code Project on Student Grade Calculator Description
+# Code Project on Student Grade Calculator Description
 import tkinter as tk
 from tkinter import messagebox
 import json
